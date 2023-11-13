@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### LeetCode stats
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nikolayy93&theme=dark)](https://github.com/molodcovnik/leetcode-stats)
 
